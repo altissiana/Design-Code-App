@@ -10,7 +10,7 @@
         <!--View Controller-->
         <scene sceneID="7k9-p4-Tqv">
             <objects>
-                <viewController id="KZY-UK-dFB" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="1" id="KZY-UK-dFB" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="PDf-Ib-A8T">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -59,7 +59,7 @@
         <!--View Controller-->
         <scene sceneID="eNG-kh-i0P">
             <objects>
-                <viewController id="nwI-no-HtV" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="4" id="nwI-no-HtV" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="LN8-cK-t3A">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -87,7 +87,7 @@
         <!--View Controller-->
         <scene sceneID="pZR-CU-Sp1">
             <objects>
-                <viewController id="ee8-B9-ZUh" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="5" id="ee8-B9-ZUh" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lcY-KA-RqS">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -115,7 +115,7 @@
         <!--View Controller-->
         <scene sceneID="Ttz-Ke-umf">
             <objects>
-                <viewController id="ecN-CJ-Gtg" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="6" id="ecN-CJ-Gtg" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kqb-sB-UXa">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -143,7 +143,7 @@
         <!--View Controller-->
         <scene sceneID="2st-hf-3Lk">
             <objects>
-                <viewController id="nzT-99-tID" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="2" id="nzT-99-tID" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="fvx-K6-EPF">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -171,7 +171,7 @@
         <!--View Controller-->
         <scene sceneID="Vxi-hA-zWr">
             <objects>
-                <viewController id="t25-hQ-m0r" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="3" id="t25-hQ-m0r" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="DGi-Ql-jBS">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -191,7 +191,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="jai-u2-Hi1"/>
+        <segue reference="zOj-5b-sfv"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="Article Screen" width="375" height="1503"/>
